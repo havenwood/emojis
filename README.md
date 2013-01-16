@@ -4,7 +4,7 @@ A Ruby gem for Emojis! :heart: :heart: :heart: Over 700 Emoji symbols ready to u
 
 ## Installation
 
-Intstall:
+Install:
 
 `gem install emojis`
 
