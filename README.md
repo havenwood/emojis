@@ -18,8 +18,11 @@ emojis = Emojis.new
 emojies.list
 ```
   # :airplane => :airplane:
+  
   # :bear_face => :bear:
+  
   # :beer_mug => :beer:
+  
   # etcetera...
 ```ruby
 emojies[:birthday_cake]
