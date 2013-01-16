@@ -1,6 +1,6 @@
 # Emojis
 
-A Ruby gem for Emojis! Over 700 Emoji symbols ready to use. Emojis gem is based upon Apple and Google's UTC Subcommittee proposal for Unicode Symbols for Emoji.
+A Ruby gem for Emojis! :heart: :heart: :heart: Over 700 Emoji symbols ready to use. Emojis gem is based upon Apple and Google's UTC Subcommittee proposal for Unicode Symbols for Emoji.
 
 ## Installation
 
@@ -17,13 +17,10 @@ emojis = Emojis.new
 
 emojies.list
 ```
-  # :airplane => :airplane:
-  
-  # :bear_face => :bear:
-  
-  # :beer_mug => :beer:
-  
-  # etcetera...
+:airplane => :airplane:
+:bear_face => :bear:
+:beer_mug => :beer:
+# etcetera...
 ```ruby
 emojies[:birthday_cake]
 ```
