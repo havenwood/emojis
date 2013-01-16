@@ -23,7 +23,7 @@ emojies.list
 
 :beer_mug => :beer:
 
-# etcetera...
+  # etcetera...
 ```ruby
 emojies[:birthday_cake]
 ```
